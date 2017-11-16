@@ -1,0 +1,26 @@
+<items>
+<item id="3_1" class="Protein">
+<attribute name="primaryAccession" value="P29354"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+</item>
+<item id="3_2" class="Protein">
+<attribute name="primaryAccession" value="P26675"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+</item>
+<item id="2_1" class="ProteinStructure">
+<attribute name="atm" value="HEADER"/>
+<attribute name="classification" value="COMPLEX (ADAPTOR PROTEIN/PEPTIDE)"/>
+<attribute name="identifier" value="1AZE"/>
+<attribute name="resolution" value="99.0"/>
+<attribute name="title" value="NMR STRUCTURE OF THE COMPLEX BETWEEN THE C32S-Y7V MUTANT OF THE NSH3 DOMAIN OF GRB2 WITH A PEPTIDE FROM SOS, 10 STRUCTURES"/>
+<collection name="dataSets"><reference ref_id="1_1"/></collection>
+<collection name="proteins"><reference ref_id="3_1"/><reference ref_id="3_2"/></collection>
+</item>
+<item id="1_1" class="DataSet">
+<attribute name="name" value="PDB dmel data set"/>
+<reference name="dataSource" ref_id="0_1"/>
+</item>
+<item id="0_1" class="DataSource">
+<attribute name="name" value="PDB"/>
+</item>
+</items>

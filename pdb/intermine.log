@@ -1,0 +1,54 @@
+14/11/17,13:08:38 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+14/11/17,13:08:38 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+14/11/17,13:08:38 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+14/11/17,13:08:39 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+14/11/17,13:08:39 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+14/11/17,13:08:39 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+14/11/17,14:05:14 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+14/11/17,14:05:14 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+14/11/17,14:05:14 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+14/11/17,14:05:14 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+14/11/17,14:05:14 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+14/11/17,14:05:14 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+14/11/17,14:44:51 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+14/11/17,14:44:51 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+14/11/17,14:44:51 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+14/11/17,14:44:52 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+14/11/17,14:44:52 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+14/11/17,14:44:52 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:18:15 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:18:15 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:18:15 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:18:15 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:18:15 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:18:15 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:22:48 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:22:48 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:22:49 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:22:49 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:22:49 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:22:49 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:23:58 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:23:58 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:23:59 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:23:59 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:23:59 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:23:59 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:25:17 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:25:17 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:25:17 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:25:17 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:25:17 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:25:17 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:26:24 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:26:24 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:26:24 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:26:24 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:26:24 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:26:24 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
+16/11/17,13:27:27 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSource to index 0
+16/11/17,13:27:27 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className DataSet to index 1
+16/11/17,13:27:27 ERROR org.intermine.bio.dataconversion.PdbConverter     - parsing 1AZE.pdb
+16/11/17,13:27:27 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className ProteinStructure to index 2
+16/11/17,13:27:27 INFO  org.intermine.dataconversion.DataConverter     - Aliasing className Protein to index 3
+16/11/17,13:27:27 WARN  org.intermine.bio.dataconversion.PdbConverter     - No value for technique in structure: 1AZE
